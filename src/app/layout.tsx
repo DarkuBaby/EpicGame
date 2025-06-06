@@ -8,8 +8,8 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Epic Games Store",
-  description: "Demo Store app made with NextJS",
+  title: "GamerBerg - GameStore",
+  description: "Developed By ItzDark.",
 };
 const clerkAppearance = {
   baseTheme: dark,
